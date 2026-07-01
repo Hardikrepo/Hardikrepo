@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Hardik Maru
 
-### DevOps Engineer | Cloud & AI Enthusiast
+### DevOps Engineer & IT Management | Cloud & AI Enthusiast
 
 <a href="https://www.linkedin.com/in/hardik-maru-1a220462/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
