@@ -59,6 +59,19 @@ operate.
 
 ---
 
+### 🎓 IT & Management Projects
+
+Alongside hands-on cloud/DevOps work, I've also worked on scenario-based IT management,
+finance, and database coursework:
+
+| Project | Description |
+|---|---|
+| [**Management-Projects-samples**](https://github.com/Hardikrepo/Management-Projects-samples) | Scenario-based IT & management projects, incl. an IT product development case study and an organizational change project |
+| [**FINANCIAL-ANALYSIS**](https://github.com/Hardikrepo/FINANCIAL-ANALYSIS) | Accounts & finance analysis project |
+| [**Database-sample-Project**](https://github.com/Hardikrepo/Database-sample-Project) | Database design project focused on managing and organizing data |
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
