@@ -63,10 +63,18 @@ operate.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hardikrepo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardikrepo&layout=compact&theme=tokyonight&hide_border=true" />
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Hardikrepo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardikrepo&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardikrepo&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardikrepo&theme=tokyonight&hide_border=true" width="65%" />
 
 </div>
 
