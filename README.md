@@ -85,6 +85,14 @@ finance, and database coursework:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardikrepo&theme=tokyonight&hide_border=true" width="480" />
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hardikrepo/Hardikrepo/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hardikrepo/Hardikrepo/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/Hardikrepo/Hardikrepo/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
 </div>
 
 ---
