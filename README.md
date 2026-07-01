@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-I'm an IT & infrastructure specialist focused on **DevOps** and **cloud engineering**, with a
+I'm an IT Management & infrastructure specialist focused on **DevOps** and **cloud engineering**, with a
 growing focus on applying **AI/LLMs** to infrastructure and operations tooling. I build and
 automate cloud environments across **AWS, GCP, and Azure**, and I'm increasingly combining that
 with AI-assisted tooling (log analysis, agents, RAG) to make infrastructure smarter and easier to
