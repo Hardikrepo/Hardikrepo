@@ -50,6 +50,7 @@ operate.
 
 | Project | Description |
 |---|---|
+| [**ci-cd**](https://github.com/Hardikrepo/ci-cd) | Static site deployed to AWS S3+CloudFront via GitHub Actions, with OIDC-based IAM auth (no long-lived AWS keys) |
 | [**ai-aws-log-analyzer**](https://github.com/Hardikrepo/ai-aws-log-analyzer) | Multi-cloud AI log analyzer (AWS/GCP/Azure) with a pluggable OpenAI/Anthropic backend and interactive chat mode |
 | [**cloud-native-stack**](https://github.com/Hardikrepo/cloud-native-stack) | Cloud-native workloads on NVIDIA GPUs |
 | [**inference-server**](https://github.com/Hardikrepo/inference-server) | Deploying AI/ML models to Amazon SageMaker for real-time & batch inference |
