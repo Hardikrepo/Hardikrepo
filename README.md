@@ -22,7 +22,7 @@ automate cloud environments across **AWS, GCP, and Azure**, and I'm increasingly
 with AI-assisted tooling (log analysis, agents, RAG) to make infrastructure smarter and easier to
 operate.
 
-- 🔭 Currently building **[ai-aws-log-analyzer](https://github.com/Hardikrepo/ai-aws-log-analyzer)** — a multi-cloud AI log analyzer (AWS/GCP/Azure logs + Anthropic/OpenAI analysis)
+- 👯 Ready to work and contribute to **AI-powered DevOps projects** across **AWS, GCP, Azure, and Oracle Cloud Infrastructure (OCI)**
 - 🌱 Learning more about **LLM agents, RAG pipelines, and MLOps**
 - 🛠️ Comfortable across the full DevOps lifecycle: provisioning, CI/CD, containers, observability
 - 💬 Ask me about **Terraform, AWS, Kubernetes, or cloud cost/security automation**
