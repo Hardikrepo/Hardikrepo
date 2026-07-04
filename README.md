@@ -60,6 +60,21 @@ operate.
 
 ---
 
+### 🔧 Open Source Contributions
+
+Actively contributing fixes and features to community projects — PRs pending maintainer review:
+
+| Repo | Contribution |
+|---|---|
+| [**aws/aws-cli**](https://github.com/aws/aws-cli/pull/10456) | UTF-8 encoding fix for MCP config files, `--redirect-port` support for SSO login |
+| [**aws/serverless-application-model**](https://github.com/aws/serverless-application-model/pull/3948) | Fixes for issues #3911 and #3939 |
+| [**nasa/osal**](https://github.com/nasa/osal/pull/1559) | Fixed stack-buffer-overflow, incorrect `statvfs` block size, and a path traversal issue |
+| [**NVIDIA/cloud-native-stack**](https://github.com/NVIDIA/cloud-native-stack/pulls?q=is%3Apr+author%3AHardikrepo) | GB200/Ubuntu runtime fixes, idempotent Helm installs, Kubernetes 1.35 support |
+| [**apple/swift-cassandra-client**](https://github.com/apple/swift-cassandra-client/pulls?q=is%3Apr+author%3AHardikrepo) | Decodable query support, paginated queries, richer error context, deployment target bump |
+| [**apple/pir-service-example**](https://github.com/apple/pir-service-example/pulls?q=is%3Apr+author%3AHardikrepo) | Error API adoption for client-facing server errors |
+
+---
+
 ### 🎓 IT & Management Projects
 
 Alongside hands-on cloud/DevOps work, I've also worked on scenario-based IT management,
