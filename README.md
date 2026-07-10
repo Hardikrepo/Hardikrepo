@@ -52,6 +52,8 @@ operate.
 |---|---|
 | [**ci-cd**](https://github.com/Hardikrepo/ci-cd) | Static site deployed to AWS S3+CloudFront via GitHub Actions, with OIDC-based IAM auth (no long-lived AWS keys) |
 | [**ai-aws-log-analyzer**](https://github.com/Hardikrepo/ai-aws-log-analyzer) | Multi-cloud AI log analyzer (AWS/GCP/Azure) with a pluggable OpenAI/Anthropic backend and interactive chat mode |
+| [**EMR**](https://github.com/Hardikrepo/EMR) | BluePrintAI — React/FastAPI/MongoDB app that generates VC-style investment memos from startup data; backed by an arq/Redis job queue, live-hosted |
+| [**airline-ams**](https://github.com/Hardikrepo/airline-ams) | Spring Boot + React airline management system rewrite, with ops dashboards and an admin module for staff/gates |
 | [**cloud-native-stack**](https://github.com/Hardikrepo/cloud-native-stack) | Cloud-native workloads on NVIDIA GPUs |
 | [**inference-server**](https://github.com/Hardikrepo/inference-server) | Deploying AI/ML models to Amazon SageMaker for real-time & batch inference |
 | [**terraform-course**](https://github.com/Hardikrepo/terraform-course) | Hands-on Terraform exercises and IaC projects |
@@ -70,8 +72,8 @@ Actively contributing fixes and features to community projects — PRs pending m
 | [**aws/serverless-application-model**](https://github.com/aws/serverless-application-model/pull/3948) | Fixes for issues #3911 and #3939 |
 | [**nasa/osal**](https://github.com/nasa/osal/pull/1559) | Fixed stack-buffer-overflow, incorrect `statvfs` block size, and a path traversal issue |
 | [**NVIDIA/cloud-native-stack**](https://github.com/NVIDIA/cloud-native-stack/pulls?q=is%3Apr+author%3AHardikrepo) | GB200/Ubuntu runtime fixes, idempotent Helm installs, Kubernetes 1.35 support |
-| [**apple/swift-cassandra-client**](https://github.com/apple/swift-cassandra-client/pulls?q=is%3Apr+author%3AHardikrepo) | Decodable query support, paginated queries, richer error context, deployment target bump |
-| [**apple/pir-service-example**](https://github.com/apple/pir-service-example/pulls?q=is%3Apr+author%3AHardikrepo) | Error API adoption for client-facing server errors |
+| [**apple/swift-cassandra-client**](https://github.com/apple/swift-cassandra-client/pulls?q=is%3Apr+author%3AHardikrepo) | Stacked PRs: decodable query support (incl. explicit `withModelType:` overloads), paginated queries, richer error context, deployment target bump |
+| [**apple/pir-service-example**](https://github.com/apple/pir-service-example/pulls?q=is%3Apr+author%3AHardikrepo) | Error API adoption for client-facing server errors; troubleshooting doc for an extension context refresh workaround (#116) |
 
 ---
 
