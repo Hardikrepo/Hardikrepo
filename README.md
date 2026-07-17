@@ -105,13 +105,6 @@ _Auto-updated every 6 hours by a [GitHub Action](.github/workflows/update-readme
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hardikrepo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="280" /></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardikrepo&layout=compact&theme=tokyonight&hide_border=true" width="280" /></td>
-  </tr>
-</table>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardikrepo&theme=tokyonight&hide_border=true" width="480" />
 
 <br/>
