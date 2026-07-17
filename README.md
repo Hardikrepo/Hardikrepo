@@ -50,15 +50,13 @@ operate.
 
 | Project | Description |
 |---|---|
-| [**ci-cd**](https://github.com/Hardikrepo/ci-cd) | Static site deployed to AWS S3+CloudFront via GitHub Actions, with OIDC-based IAM auth (no long-lived AWS keys) |
+| [**orbinexa-commerce-platform**](https://github.com/Hardikrepo/orbinexa-commerce-platform) | Enterprise e-commerce & DevSecOps reference platform — Docker, Kubernetes, Terraform, AWS EKS, GitOps, security, observability, admin & developer portals |
+| [**gitops-aws-terraform-oidc**](https://github.com/Hardikrepo/gitops-aws-terraform-oidc) | GitOps for AWS with Terraform + GitHub OIDC — no long-lived AWS credentials |
+| [**aws-autoscaling-web-tier**](https://github.com/Hardikrepo/aws-autoscaling-web-tier) | ALB + ASG autoscaling web tier on AWS, multi-environment Terraform with OIDC CI/CD |
 | [**ai-aws-log-analyzer**](https://github.com/Hardikrepo/ai-aws-log-analyzer) | Multi-cloud AI log analyzer (AWS/GCP/Azure) with a pluggable OpenAI/Anthropic backend and interactive chat mode |
 | [**EMR**](https://github.com/Hardikrepo/EMR) | BluePrintAI — React/FastAPI/MongoDB app that generates VC-style investment memos from startup data; backed by an arq/Redis job queue, live-hosted |
 | [**airline-ams**](https://github.com/Hardikrepo/airline-ams) | Spring Boot + React airline management system rewrite, with ops dashboards and an admin module for staff/gates |
-| [**cloud-native-stack**](https://github.com/Hardikrepo/cloud-native-stack) | Cloud-native workloads on NVIDIA GPUs |
-| [**inference-server**](https://github.com/Hardikrepo/inference-server) | Deploying AI/ML models to Amazon SageMaker for real-time & batch inference |
-| [**terraform-course**](https://github.com/Hardikrepo/terraform-course) | Hands-on Terraform exercises and IaC projects |
-| [**Bedrock_course**](https://github.com/Hardikrepo/Bedrock_course) | Working with Amazon Bedrock for generative AI |
-| [**awesome-llm-apps**](https://github.com/Hardikrepo/awesome-llm-apps) | Curated collection of LLM apps with AI agents and RAG |
+| [**ci-cd**](https://github.com/Hardikrepo/ci-cd) | Static site deployed to AWS S3+CloudFront via GitHub Actions, with OIDC-based IAM auth (no long-lived AWS keys) |
 
 ---
 
