@@ -96,7 +96,6 @@ _Auto-updated every 6 hours by a [GitHub Action](.github/workflows/update-readme
 - 🔨 Pushed to [`Hardikrepo/gitops-aws-terraform-oidc`](https://github.com/Hardikrepo/gitops-aws-terraform-oidc) (main)
 - 🔨 Pushed to [`Hardikrepo/Hardikrepo`](https://github.com/Hardikrepo/Hardikrepo) (master)
 - 🔨 Pushed to [`Hardikrepo/orbinexa-commerce-platform`](https://github.com/Hardikrepo/orbinexa-commerce-platform) (main)
-- 🔨 Pushed to [`Hardikrepo/aws-autoscaling-web-tier`](https://github.com/Hardikrepo/aws-autoscaling-web-tier) (main)
 <!-- ACTIVITY:END -->
 
 ---
