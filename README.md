@@ -96,7 +96,6 @@ _Auto-updated every 6 hours by a [GitHub Action](.github/workflows/update-readme
 - 🔨 Pushed to [`Hardikrepo/self-healing-ec2-fleet`](https://github.com/Hardikrepo/self-healing-ec2-fleet) (master)
 - 🔨 Pushed to [`Hardikrepo/radio-time-machine`](https://github.com/Hardikrepo/radio-time-machine) (main)
 - 🔨 Pushed to [`Hardikrepo/S3`](https://github.com/Hardikrepo/S3) (main)
-- 🔨 Pushed to [`Hardikrepo/gitops-aws-terraform-oidc`](https://github.com/Hardikrepo/gitops-aws-terraform-oidc) (main)
 <!-- ACTIVITY:END -->
 
 ---
