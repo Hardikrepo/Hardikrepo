@@ -95,8 +95,6 @@ _Auto-updated every 6 hours by a [GitHub Action](.github/workflows/update-readme
 - 🔨 Pushed to [`Hardikrepo/ClearPrompt`](https://github.com/Hardikrepo/ClearPrompt) (master)
 - 🔨 Pushed to [`Hardikrepo/cornerstone-ai`](https://github.com/Hardikrepo/cornerstone-ai) (master)
 - 🔨 Pushed to [`Hardikrepo/hardikrepo.github.io`](https://github.com/Hardikrepo/hardikrepo.github.io) (main)
-- 🔀 Opened a PR in [`IBM/AssetOpsBench`](https://github.com/IBM/AssetOpsBench)
-- 🍴 Forked [`IBM/AssetOpsBench`](https://github.com/IBM/AssetOpsBench)
 <!-- ACTIVITY:END -->
 
 ---
