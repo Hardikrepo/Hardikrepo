@@ -92,9 +92,9 @@ finance, and database coursework:
 _Auto-updated every 6 hours by a [GitHub Action](.github/workflows/update-readme.yml) that pulls my public event feed — no third-party widget._
 
 <!-- ACTIVITY:START -->
+- 🔀 Merged a PR in [`apple/pir-service-example`](https://github.com/apple/pir-service-example)
 - 🔨 Pushed to [`Hardikrepo/ClearPrompt`](https://github.com/Hardikrepo/ClearPrompt) (master)
 - 🔨 Pushed to [`Hardikrepo/cornerstone-ai`](https://github.com/Hardikrepo/cornerstone-ai) (master)
-- 🔨 Pushed to [`Hardikrepo/hardikrepo.github.io`](https://github.com/Hardikrepo/hardikrepo.github.io) (main)
 <!-- ACTIVITY:END -->
 
 ---
