@@ -93,8 +93,6 @@ _Auto-updated every 6 hours by a [GitHub Action](.github/workflows/update-readme
 
 <!-- ACTIVITY:START -->
 - 🔀 Merged a PR in [`apple/pir-service-example`](https://github.com/apple/pir-service-example)
-- 🔨 Pushed to [`Hardikrepo/ClearPrompt`](https://github.com/Hardikrepo/ClearPrompt) (master)
-- 🔨 Pushed to [`Hardikrepo/cornerstone-ai`](https://github.com/Hardikrepo/cornerstone-ai) (master)
 <!-- ACTIVITY:END -->
 
 ---
