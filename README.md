@@ -92,7 +92,7 @@ finance, and database coursework:
 _Auto-updated every 6 hours by a [GitHub Action](.github/workflows/update-readme.yml) that pulls my public event feed — no third-party widget._
 
 <!-- ACTIVITY:START -->
-- 🔀 Merged a PR in [`apple/pir-service-example`](https://github.com/apple/pir-service-example)
+- No recent public activity.
 <!-- ACTIVITY:END -->
 
 ---
